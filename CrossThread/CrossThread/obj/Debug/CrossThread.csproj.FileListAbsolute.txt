@@ -1,0 +1,16 @@
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\bin\Debug\CrossThread.exe.config
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\bin\Debug\CrossThread.exe
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\bin\Debug\CrossThread.pdb
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\obj\Debug\CrossThread.Properties.Resources.resources
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\obj\Debug\CrossThread.csproj.GenerateResource.Cache
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\obj\Debug\CrossThread.exe
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\obj\Debug\CrossThread.pdb
+C:\classes\cscd498csharp\csharp\Spring_14\in_class_code\CrossThread\CrossThread\obj\Debug\CrossThread.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\CrossThread\CrossThread\bin\Debug\CrossThread.exe.config
+C:\Users\juan\Desktop\CrossThread\CrossThread\obj\Debug\CrossThread.exe
+C:\Users\juan\Desktop\CrossThread\CrossThread\obj\Debug\CrossThread.pdb
+C:\Users\juan\Desktop\CrossThread\CrossThread\bin\Debug\CrossThread.exe
+C:\Users\juan\Desktop\CrossThread\CrossThread\bin\Debug\CrossThread.pdb
+C:\Users\juan\Desktop\CrossThread\CrossThread\obj\Debug\CrossThread.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\CrossThread\CrossThread\obj\Debug\CrossThread.Properties.Resources.resources
+C:\Users\juan\Desktop\CrossThread\CrossThread\obj\Debug\CrossThread.csproj.GenerateResource.Cache
