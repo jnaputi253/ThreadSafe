@@ -1,0 +1,12 @@
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\FileEventListener\FileEventListener\bin\Debug\FileEventListener.exe.config
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\FileEventListener\FileEventListener\obj\Debug\FileEventListener.csprojResolveAssemblyReference.cache
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\FileEventListener\FileEventListener\bin\Debug\FileEventListener.exe
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\FileEventListener\FileEventListener\bin\Debug\FileEventListener.pdb
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\FileEventListener\FileEventListener\obj\Debug\FileEventListener.exe
+\\netstorage.eastern.ewu.edu\jnaputi1\visual studio 2013\Projects\FileEventListener\FileEventListener\obj\Debug\FileEventListener.pdb
+C:\Users\juan\Desktop\VSProjects\ConsoleApplications\FileWatcher\FileEventListener\bin\Debug\FileEventListener.exe.config
+C:\Users\juan\Desktop\VSProjects\ConsoleApplications\FileWatcher\FileEventListener\obj\Debug\FileEventListener.exe
+C:\Users\juan\Desktop\VSProjects\ConsoleApplications\FileWatcher\FileEventListener\obj\Debug\FileEventListener.pdb
+C:\Users\juan\Desktop\VSProjects\ConsoleApplications\FileWatcher\FileEventListener\bin\Debug\FileEventListener.exe
+C:\Users\juan\Desktop\VSProjects\ConsoleApplications\FileWatcher\FileEventListener\bin\Debug\FileEventListener.pdb
+C:\Users\juan\Desktop\VSProjects\ConsoleApplications\FileWatcher\FileEventListener\obj\Debug\FileEventListener.csprojResolveAssemblyReference.cache
